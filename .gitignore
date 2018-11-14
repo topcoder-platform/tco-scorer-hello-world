@@ -1,0 +1,8 @@
+node_modules
+*.log
+
+submissions
+*.key
+*.crt
+*.cert
+.DS_Store
